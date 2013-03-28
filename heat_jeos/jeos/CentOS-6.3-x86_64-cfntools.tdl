@@ -18,6 +18,7 @@ NM_CONTROLLED="yes"
 ONBOOT="yes"
 EOF
     </command>
+    <command>
 chmod +x /etc/rc.d/rc.local
     </command>
     <command name='packages'>
